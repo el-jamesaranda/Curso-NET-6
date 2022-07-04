@@ -1,4 +1,4 @@
-# Curso-NET-6-2022
+# Curso .NET 6 (2022)
 Curso de .NET 6 con el lenguaje C#.
 ## Contenido
 En este curso veremos desde los conceptos básicos en el lenguaje C# hasta la creación de una API y una UI con ASP.NET Core 6. En este proceso, también veremos cómo trabajar con SQL (específicamente con el motor MS SQL Server) y con git y GitHub.
