@@ -1,8 +1,8 @@
-# Etapa 3 - SQL con SQL Server
+# Etapa 3 - SQL con MS SQL Server
 En esta etapa veremos los fundamentos del lenguaje SQL, utilizando el motor de bases de datos MS SQL Server 2019. Veremos desde los comandos DDL y DML básicos, hasta el uso de triggers y transacciones en la BD.
 
 ## Contenido
-Revisa y realiza lo indicado en los videos tutoriales de la siguiente lista de reproducción en YouTube: [SQL con SQL Server](https://www.youtube.com/playlist?list=PL0-hIHBwsOM6Bsv8ZNK4YnD3T-GtK40Jl).
+Revisa y realiza lo indicado en los videos tutoriales de la siguiente lista de reproducción en YouTube: [SQL con MS SQL Server](https://www.youtube.com/playlist?list=PL0-hIHBwsOM6Bsv8ZNK4YnD3T-GtK40Jl).
 
 También puedes apoyarte en el archivo PDF adjunto a esta etapa.
 
