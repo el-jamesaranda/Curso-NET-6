@@ -2,7 +2,7 @@
 En esta etapa vamos a crear una API con ASP.NET Core 6. Utilizaremos el ORM Entity Framework Core para generar un modelo de datos en nuestro código, a partir de una base de datos existente. Despúes vamos a crear una API con controllers, para procesar diversas solicitudes del cliente hacia la BD.
 
 ## Contenido
-Revisa y realiza lo indicado en los videos tutoriales de la siguiente lista de reproducción en YouTube: [Controllers API con ASP.NET Core 6](https://www.youtube.com/playlist?list=PL0-hIHBwsOM6Bsv8ZNK4YnD3T-GtK40Jl).
+Revisa y realiza lo indicado en los videos tutoriales de la siguiente lista de reproducción en YouTube: [Controllers API con ASP.NET Core 6](https://tinyurl.com/2pn6tdwt).
 
 También puedes apoyarte en el archivo PDF adjunto a esta etapa.
 
