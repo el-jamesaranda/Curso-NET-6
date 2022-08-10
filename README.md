@@ -10,7 +10,6 @@ A continuación se describen las etapas que conforman el curso:
 3. SQL (MS SQL Server)
 4. API con controllers y EF Core
 5. Seguridad en APIs
-6. UI con Razor Pages
 
 ## Fechas de entrega
 Los estudiantes del CDIS deberán respetar las siguientes fechas de entrega de las actividades de cada etapa:
@@ -19,5 +18,4 @@ Los estudiantes del CDIS deberán respetar las siguientes fechas de entrega de l
 2. Programación Orientada a Objetos (y Git/GitHub) -> (Julio 15, 2022)
 3. SQL (MS SQL Server) -> (Julio 22, 2022)
 4. API con controllers y EF Core -> (Agosto 5, 2022)
-5. Seguridad en APIs -> (Agosto 12, 2022)
-6. UI con Razor Pages -> (Agosto 19, 2022)
+5. Seguridad en APIs -> (Agosto 19, 2022)
