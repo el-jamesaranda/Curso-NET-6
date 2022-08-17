@@ -10,7 +10,7 @@ También puedes apoyarte en el archivo PDF adjunto a esta etapa.
 A continuación se describe la actividad que deberás realizar.
 
 ### Objetivo
-Deberás construir un controller para el modelo BankTransaction; que deberá estar restringido por JWT. Los registros de **Client** podrán interactuar con el controller para 1) Consultar todas sus cuentas. 2) Realizar retiros de sus cuentas. 3) Realizar depósitos a sus cuentas. 4) Eliminar sus cuentas.
+Deberás construir un controller para el modelo **BankTransaction**; que deberá estar restringido por JWT. Los registros de **Client** podrán interactuar con el controller para 1) Consultar todas sus cuentas. 2) Realizar retiros de sus cuentas. 3) Realizar depósitos a sus cuentas. 4) Eliminar sus cuentas.
 
 ### Instrucciones
 - Modifica la tabla **Client**: agrega una nueva columna llamada **Pwd** para almacenar la contraseña del cliente. Notas:
