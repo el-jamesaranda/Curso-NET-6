@@ -18,7 +18,7 @@ Deberás construir un controller para el modelo **BankTransaction**; que deberá
   - Este cambio va a requerir que **actualizes tu modelo** en el código.
 - Genera un proceso para autenticar a los registros de **Client**:
   - Puedes trabajar con el **LoginController** que ya definimos (pero enfocado al modelo **Client**) o puedes crear otro controller.
-- Genera un JWT con los **claims** del registro de **Client**. Así como en el tutorial, puedes incluir solamente las propiedads **Name** e **Email**.
+- Genera un JWT con los **claims** del registro de **Client**. Así como en el tutorial, puedes incluir solamente las propiedades **Name** e **Email**.
 - Crea un controller para el modelo **BankTransaction**. En este controller, los clientes podrán:
   1. **Consultar todas sus cuentas**. Ojo, un cliente sólamente debe poder ver sus cuentas, no las de otros clientes.  
   2. **Realizar retiros de sus cuentas**. Los retiros podrán ser vía transferencia (asociados a cuentas externas o propias) o en efectivo (sin cuentas externas asociadas).
