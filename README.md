@@ -14,8 +14,8 @@ A continuación se describen las etapas que conforman el curso:
 ## Fechas de entrega
 Los estudiantes del CDIS deberán respetar las siguientes fechas de entrega de las actividades de cada etapa:
 
-1. Introducción a C# -> (Septiembre 10)
-2. Programación Orientada a Objetos (y Git/GitHub) -> (Septiembre 17)
-3. SQL (MS SQL Server) -> (Septiembre 24)
-4. API con controllers y EF Core -> (Octubre 1)
-5. Seguridad en APIs -> (Octubre 8)
+1. Introducción a C# -> (Noviembre 5)
+2. Programación Orientada a Objetos (y Git/GitHub) -> (Noviembre 12)
+3. SQL (MS SQL Server) -> (Noviembre 12)
+4. API con controllers y EF Core -> (Noviembre 19)
+5. Seguridad en APIs -> (Noviembre 26)
