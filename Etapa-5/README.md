@@ -2,7 +2,7 @@
 En esta etapa vamos a restringir el acceso a los controllers que hemos definido en la API, de manera que solamente usuarios registrados en la base de datos puedan acceder a ellos. Para esto, utilizaremos JSON Web Tokens (JWT) que formarán parte de las solicitudes hacia la API.
 
 ## Contenido
-Revisa y realiza lo indicado en los videos tutoriales de la siguiente lista de reproducción en YouTube (a partir del video 15): [Controllers API con ASP.NET Core 6](https://tinyurl.com/2pn6tdwt).
+Revisa y realiza lo indicado en los videos tutoriales de la siguiente lista de reproducción en YouTube (a partir del video 15; los videos 18 y 19 **no son necesarios** para esta actividad): [Controllers API con ASP.NET Core 6](https://tinyurl.com/2pn6tdwt).
 
 También puedes apoyarte en el archivo PDF adjunto a esta etapa.
 
